@@ -106,7 +106,7 @@ select option{
 }
 .title{
     width: 85%;
-    font-size: 12px;
+    font-size: 11px;
     text-align: justify;
     display: flex;
     flex-direction: row;

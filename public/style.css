@@ -74,7 +74,7 @@ select option{
     margin: 5%;
     font-size: 11px;
     background-color: #fff;
-    overflow-y: hidden; 
+    overflow: hidden; 
     
 }
 /* designof the block header */

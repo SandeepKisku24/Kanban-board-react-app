@@ -107,7 +107,7 @@ select option{
 .title{
     width: 85%;
     font-size: 11px;
-    text-align: justify;
+    text-align: justify;/
     display: flex;
     flex-direction: row;
     justify-content: space-between;

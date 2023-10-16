@@ -137,9 +137,9 @@ function Quicksell(props){
                     <h1 Decreasing order of priority/>
                     <p><span style={{color:"red"}} className="material-symbols-outlined">zone_person_urgent</span> Urgent {prior[4].length}</p>
                     {prior[4].map(Card)}
-                    <p><span className="material-symbols-outlined">signal_cellular_3_bar</span> Medium {prior[3].length} </p>
+                    <p><span className="material-symbols-outlined">signal_cellular_4_bar</span> High {prior[3].length} </p>
                     {prior[3].map(Card)}
-                    <p><span className="material-symbols-outlined">signal_cellular_4_bar</span> High {prior[2].length}</p>
+                    <p><span className="material-symbols-outlined">signal_cellular_3_bar</span> Medium {prior[2].length}</p>
                     {prior[2].map(Card)}
                     <p> <span className="material-symbols-outlined">signal_cellular_1_bar</span>Low  {prior[1].length}</p>
                     {prior[1].map(Card)}

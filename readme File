@@ -1,0 +1,6 @@
+Link to the project https://sandeepkisku24.github.io/Kanban-board-react-app/
+In this web development project I have fetched data using an api. The data contians tasks along with certain parameters. The parameters include: 
+1) name of person doing the task
+2) the status of the task
+3) the priority of the task
+Using the above data I have made a UI using which a user can see the data in a comprenable manner. The user can group the data on the basis of users,priority and status.
